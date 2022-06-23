@@ -127,4 +127,11 @@ string_length = string.length;
 
 //To find some certain number we use [] with position from 0 to length-1
 
+//In JS it is not allowed to change letter with index!!!
+var someName = "John";
+
+console.log("String before update " + someName);
+someName[0] = "F";
+console.log("String after update " + someName);
+
 //-----------------
