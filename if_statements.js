@@ -29,3 +29,12 @@ Less or equal <=
 AND &&
 OR ||
 */
+
+//==========
+
+//Ternary operator (shortcut for the IF statement)
+// condition ? statement-if=true: statements-if-false;
+
+number == 4 ? console.log("It's four!") : console.log("It's not four!");
+
+number == 4 ? console.log("It's four!") : number < 4 ? console.log("It's less than four") : console.log("It's bigger than four!");
