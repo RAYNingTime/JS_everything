@@ -75,4 +75,24 @@ const arr = removeFirstTwo(source);
 console.log(arr);
 console.log(source);
 
+//Using to pass an object as a Function's Parameters
 
+const stats = {
+	max: 58.78,
+	standard_deviation: 4.34,
+	median: 34.54,
+	mode: 23.87,
+	min: -0.75,
+	average: 35.85
+};
+
+const half = (function() {
+
+	//If we write {max,min} we are going to take ONLY max and min without all the other data
+	return function half({max, min}) {
+		return (max + min) / 2;
+	};
+
+})();
+console.log(stats);
+console.log(half(stats));
