@@ -16,7 +16,6 @@ ourArray[0] = "Leo";
 var nestArray = [["John", "Doe", 23], ["Ivan", "Kosiakov", 19]];
 
 //console.log(nestArray[1][1]); - Shows Kosiakov
-
 //----------
 
 //push() function allows us to insert some data in the array INSIDE OF THE ARRAY all the elements of the array
