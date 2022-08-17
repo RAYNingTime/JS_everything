@@ -1,4 +1,3 @@
-
 var ourDog = {
 	"name": "Camper",
 	"legs": 4,
