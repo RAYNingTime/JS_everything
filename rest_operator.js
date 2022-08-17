@@ -1,4 +1,3 @@
-
 // "...args" used to take all the arguments and convert them to the array args 
 
 const sum = (function() {
