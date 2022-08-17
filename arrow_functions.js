@@ -2,7 +2,6 @@
 /*
 	Function form can be simplified
 
-
 This function: 
 var magic = function(){
 	return new Date();
