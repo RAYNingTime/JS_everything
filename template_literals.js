@@ -1,5 +1,4 @@
 //Creating strings using Template Literals
-
 const person = {
 	name: "Zodiac Hasbro",
 	age: 56
