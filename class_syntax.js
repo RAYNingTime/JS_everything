@@ -18,7 +18,6 @@ function makeClass(){
 	}
 	return Vegetable;
 }
-
 const Vegetable = makeClass();
 const carrot = new Vegetable('carrot');
 console.log(carrot.name);
