@@ -7,7 +7,6 @@ const createPerson = (name,age,gender) => {
 };
 
 //Same as 
-
 const createNewPerson = (name,age,gender) => ({ name, age, gender});
 
 
