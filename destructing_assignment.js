@@ -46,7 +46,6 @@ console.log(getMaxOfTmrw(LOCAL_FORECAST));
 const [fisrtNum,secondNum, ,thirdNum] = [1,2,3,4,5,6];
 console.log(fisrtNum,secondNum,thirdNum);
 
-
 //With this method we can swap two variabels
 let firstA = 8, secondB = 6;
 (() => {
