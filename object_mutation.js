@@ -4,7 +4,6 @@ const MATH_CONSTANTS = {
 };
 
 //To prevent changing object we use function called Object.freeze
-
 Object.freeze(MATH_CONSTANTS);
 
 try {
