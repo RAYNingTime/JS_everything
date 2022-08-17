@@ -2,7 +2,6 @@
 const arr1 = ['JAN', 'FEB', 'MAR', 'APR', 'MAY'];
 
 let arr2;
-
 (function() {
 	//IF we put line: 
 	// arr2=arr1;
