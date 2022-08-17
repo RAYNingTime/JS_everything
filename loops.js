@@ -11,7 +11,6 @@ while (i < 5){
 console.log(myArray);
 
 //==========
-
 //For Loop
 var ourArray = [];
 
