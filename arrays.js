@@ -9,7 +9,6 @@ var exactIndex = ourArray[0];
 ourArray[0] = "Leo";
 
 //console.log(ourArray); - Shows [ 'Leo', 23 ]
-
 //----------
 
 //Nest array
