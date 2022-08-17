@@ -17,7 +17,6 @@ class Book{
 	}
 }
 
-
 function makeClass(){
 	class Thermostat{
 		constructor(temp) {
