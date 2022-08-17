@@ -101,7 +101,6 @@ someNum -=1;
 
 someNum *= 2;
 //console.log(someNum);
-
 // someNum is going to be equal to 12!
 
 // AND JS also allows us to make a divide shortcut!
