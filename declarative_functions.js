@@ -9,7 +9,6 @@ const bicycle = {
 		"use strict";
 		this.gear = newGear;
 	}
-
 };
 
 bicycle.setGear(3);
