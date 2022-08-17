@@ -7,7 +7,6 @@ function ourReusableFunction(/* Arguments */){
 }
 
 ourReusableFunction();
-
 //In JS there is also way for creating global variables and local one
 //To create GLOBAL variable - you should put it outside of the functions and it will me accessable EVERYWHERE
 //To create LOCAL variable - you should put it inside of the functions and it will me accessable ONLY inside of the function
