@@ -1,7 +1,6 @@
 
 //Math.random - used to generate number from 0 to 1
 //Math.floor - used to round number to lowest
-
 //TIP: To generate number in range that you need you can multiply random floor number
 
 var randomNumber = Math.random();
