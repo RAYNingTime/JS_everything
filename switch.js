@@ -1,5 +1,6 @@
 //Switch satements
 
+
 function caseInSwitch(val) {
 	var answer = "";
 
