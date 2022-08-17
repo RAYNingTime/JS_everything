@@ -9,8 +9,6 @@ else if(number == 5)
 else 
 	console.log("It's not four or five!");
 
-
-
 /*
 Logic Gates
 
