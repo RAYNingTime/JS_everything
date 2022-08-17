@@ -9,7 +9,6 @@ function convertToInteger(str){
 
 //Is going to give you a number 56
 convertToInteger("56"); 
-
 //==========
 
 //Also works with Redix
